@@ -51,7 +51,8 @@ main {
     background-color: white;
 }
 
-main h2, main h3 {
+main h2,
+main h3 {
     margin-top: 15px;
 }
 
@@ -72,7 +73,7 @@ ol, ul {
     padding-left: 20px;
 }
 
-/* Footer Styling */
+/* Footer Style */
 footer {
     text-align: center;
     background-color: #0056b3;
@@ -81,7 +82,7 @@ footer {
     margin-top: 20px;
 }
 
-/* Related Posts in Aside */
+/* Posts in Aside */
 aside {
     background-color: #e0e0e0;
     padding: 10px;
